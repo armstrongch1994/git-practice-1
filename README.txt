@@ -1,0 +1,1 @@
+This is a project specifically created to practice git commands 
